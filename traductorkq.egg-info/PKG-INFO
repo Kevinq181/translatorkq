@@ -1,0 +1,23 @@
+Metadata-Version: 1.2
+Name: traductorkq
+Version: 0.1.2
+Summary: UNKNOWN
+Home-page: https://github.com/Kevinq181/translatorkq.git
+Author: Kevin
+Author-email: kevin.kjqm@gmail.com
+License: UNKNOWN
+Description: # Traductor
+        
+        Programa para traducir palabras de Ingles a Espanol
+        
+        ## Instalacion
+        
+        pip install traductorkq
+        
+        ## Forma de uso
+        
+        traductorkq "hello"
+        
+        hello -> hola
+Platform: UNKNOWN
+Requires-Python: >=3.8,<4.0

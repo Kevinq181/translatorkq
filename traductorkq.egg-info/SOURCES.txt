@@ -1,0 +1,10 @@
+README.md
+setup.py
+traductorkq/__init__.py
+traductorkq/__main__.py
+traductorkq.egg-info/PKG-INFO
+traductorkq.egg-info/SOURCES.txt
+traductorkq.egg-info/dependency_links.txt
+traductorkq.egg-info/entry_points.txt
+traductorkq.egg-info/requires.txt
+traductorkq.egg-info/top_level.txt
